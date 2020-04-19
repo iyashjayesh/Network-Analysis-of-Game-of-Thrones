@@ -14,3 +14,19 @@ Things you will find in the notebook:
 (7) What does Google PageRank tell us about GoT? 
 (8) Correlation between different measures 
 (9) Conclusion
+
+## Thank You. 
+​
+Instagram Handle: https://bit.ly/yashinstagram
+​
+Linkedin Handle: https://bit.ly/yashlinkedin
+​
+Facebook Handle: https://bit.ly/yashfacebook
+​
+Twitter Handle: https://bit.ly/yashtwitter
+​
+Youtube Handle: https://bit.ly/yashchauhanyoutube
+​
+Medium Handle: https://bit.ly/yashmedium
+​
+Let's connect-collaborate-learn togehter!

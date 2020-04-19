@@ -2,8 +2,6 @@
 ## DataScience Hackathon - " A Network Analysis of Game of Thrones" 
 Team Details: Yash Chauhan(Parul University) and Vidhi Bhavsar(Charusat University)
 
-Contact.no: 9925877996 
-
 Email: yashy3045@gmail.com  
 
 Things you will find in the notebook:

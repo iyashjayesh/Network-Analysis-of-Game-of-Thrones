@@ -6,15 +6,15 @@ Email: yashy3045@gmail.com
 
 Things you will find in the notebook:
 
--(1) First load the dataset 
--(2) Time for some Network of Thrones 
--(3) Populate the network with the DataFrame 
--(4) The most important character in Game of Thrones 
--(5) The evolution of character importance 
--(6) What's up with Stannis Baratheon? 
--(7) What does Google PageRank tell us about GoT? 
--(8) Correlation between different measures 
--(9) Conclusion
+- First load the dataset 
+- Time for some Network of Thrones 
+- Populate the network with the DataFrame 
+- The most important character in Game of Thrones 
+- The evolution of character importance 
+- What's up with Stannis Baratheon? 
+- What does Google PageRank tell us about GoT? 
+- Correlation between different measures 
+- Conclusion
 
 It's with Dataset.
 
